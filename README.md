@@ -54,9 +54,14 @@ con esto iniciara el robot
 y ayi pones tu numero de telefono sin +() , tendras que poner tu numero asi: 58948495959 tu numero real y luego de que ya este listo te dara un codigo y lo pondras en whatsapp dandole a dispositivos veinculados, veincular dispositivo, pones qr o codigo codigo es veincular con numero de telefono y qr la camara para copiar el codigo mantienes precionado el codigo que te genero y lo pones en veincular con num de telefono y de ayi listo
 
 # alerta
-te recomiendo usarlo 2 oras al dia ya que te pueden banear si el bot hace mucho spam de mensajes,
+te recomiendo usarlo 2 oras al dia ya que te pueden banear si el bot hace mucho spam de mensaje.
 
+se conciente de lo que hagas con el bot este bot no es el mejor no es perfecto viene con errores esta desactualizado porque banearon al dueño osea yo por eso estoy compartiendo mi bot para que lo uses con cuidado.
 
-si quieres saber mas dile ala ia como puedes solicitar las apis y eso 
+# rutas
+las rutas funcionan como niveles tu pones ../ y es una carpeta hacia atras si hay una carpeta y un archivo dentro de esa carpeta y en ese archivo que esta ayi pones ../ para llamar al archivo de atras y para llamar un archivo que este en esta misma carpeta es ./ y eso va con el nombre si es para varias carpeta asi ./carpetanombre1/carpetanombre2/pepe.js 
+de atras para alante 
+../../2nivelesatrascarpeta/archivo.js
+
 
 sigue mi canal de [telegram](t.me/AVESTRUUS)
