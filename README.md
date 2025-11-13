@@ -46,4 +46,17 @@ si estas en sdcard o storage/emulated/0 es lo mismo pero tendras que usar
 ```bash
 npm install --no-bin-links
 ```
+luego de que sete instale todo pones
+```bash
+npm start
+```
+con esto iniciara el robot
+y ayi pones tu numero de telefono sin +() , tendras que poner tu numero asi: 58948495959 tu numero real y luego de que ya este listo te dara un codigo y lo pondras en whatsapp dandole a dispositivos veinculados, veincular dispositivo, pones qr o codigo codigo es veincular con numero de telefono y qr la camara para copiar el codigo mantienes precionado el codigo que te genero y lo pones en veincular con num de telefono y de ayi listo
+
+# alerta
+te recomiendo usarlo 2 oras al dia ya que te pueden banear si el bot hace mucho spam de mensajes,
+
+
 si quieres saber mas dile ala ia como puedes solicitar las apis y eso 
+
+sigue mi canal de [telegram](t.me/AVESTRUUS)
